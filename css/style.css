@@ -1,43 +1,74 @@
 /* Applicable for All Pages */
 /* Name on the Header */
 .name {
-    margin-left: 50px;
-    font-family:  Georgia, 'Times New Roman', Times, serif;
-    font-weight: 500;
-    background-color: rgb(74,170,165);
-    color: white;
-    letter-spacing: 1px;
-    ;
+  margin-left: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 500;
+  background-color: rgb(74, 170, 165);
+  color: white;
+  letter-spacing: 1px;
 }
-
+/* Background Image and fallback color */
 body {
   background-image: url(../media/ignasi_pattern_s.png);
-  background-color:  rgb(235, 235, 235);
+  background-color: rgb(235, 235, 235);
 }
-
+/* Section Tag Area */
 .content {
-    background-color: white;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 20px
-    ;
+  background-color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 20px;
 }
-
+/* Section Tag Area Header */
 .content-header {
-    padding: 10px;
-    font-family:  Georgia, 'Times New Roman', Times, serif;
-    color: rgb(74,170,165);
-    font-weight: 600;
-    line-height: 2;
+  padding: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(74, 170, 165);
+  font-weight: 600;
+  line-height: 2;
 }
+
+
+/* About Page Specific CSS */
+
+/* Image */
+.self {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+/* Margin for paragraph tag */
+.bio {
+  margin: 20px;
+}
+
+/* Portfolio Page Specific CSS */
+
+/* Image formatting */
+.images {
+    width: 98%;
+    display: inline-block;
+    margin: 15px auto;
+    border: 1px solid rgb(74,170,165);
+}
+
+
+
+
+
+
+/* Contact Page Specific CSS */
+
+/* Margin between between input fields */
 .contact-fields {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
-
+/* Submit Button and psuedo class */
 .submit-button {
-    background: rgb(74,170,165);
+  background: rgb(74, 170, 165);
 }
 
-.submit-button:hover{
-    background-color:lightgray;
+.submit-button:hover {
+  background-color: lightgray;
 }
