@@ -31,7 +31,7 @@ body {
 
 /* Footer */
 .footer {
-    position: sticky;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 60px;
@@ -39,6 +39,7 @@ body {
     background-color: black;
     text-align: center;
     opacity: 70%;
+    border-top: 10px rgb(74,170,165);
 }
 .text-muted {
     color: #6c757d;
