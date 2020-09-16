@@ -1,3 +1,23 @@
 body {
-  background-image: url(Assets/ignasi_pattern_s.png) rgb(235, 235, 235);
+  background-image: url(assets/ignasi_pattern_s.png);
+  background-color:  rgb(235, 235, 235);
+}
+
+/* .header {
+    background-color: rgb(74,170,165);
+    color: white;
+    margin-left: 50px; */
+
+.name {
+    margin-left: 50px;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    background-color: rgb(74,170,165);
+    color: white;
+    letter-spacing: 1px;
+    ;
+}
+
+.nav-bar{
+    text-align: right;
 }
