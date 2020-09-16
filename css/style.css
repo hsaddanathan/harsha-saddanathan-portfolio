@@ -29,6 +29,20 @@ body {
   line-height: 2;
 }
 
+/* Footer */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: black;
+    text-align: center;
+    opacity: 70%;
+}
+.text-muted {
+    color: #6c757d;
+}
 
 /* About Page Specific CSS */
 
