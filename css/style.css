@@ -1,9 +1,5 @@
-body {
-  background-image: url(assets/ignasi_pattern_s.png);
-  background-color:  rgb(235, 235, 235);
-}
-
-
+/* Applicable for All Pages */
+/* Name on the Header */
 .name {
     margin-left: 50px;
     font-family:  Georgia, 'Times New Roman', Times, serif;
@@ -14,3 +10,34 @@ body {
     ;
 }
 
+body {
+  background-image: url(../media/ignasi_pattern_s.png);
+  background-color:  rgb(235, 235, 235);
+}
+
+.content {
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px
+    ;
+}
+
+.content-header {
+    padding: 10px;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    color: rgb(74,170,165);
+    font-weight: 600;
+    line-height: 2;
+}
+.contact-fields {
+    margin-bottom: 20px;
+}
+
+.submit-button {
+    background: rgb(74,170,165);
+}
+
+.submit-button:hover{
+    background-color:lightgray;
+}
