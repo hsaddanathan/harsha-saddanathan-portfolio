@@ -1,0 +1,26 @@
+.content {
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px
+    ;
+}
+.self {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.about-me {
+    padding: 10px;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    color: rgb(74,170,165);
+    font-weight: 600;
+    line-height: 2;
+  
+}
+
+.bio {
+    margin: 20px;
+}

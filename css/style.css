@@ -3,10 +3,6 @@ body {
   background-color:  rgb(235, 235, 235);
 }
 
-/* .header {
-    background-color: rgb(74,170,165);
-    color: white;
-    margin-left: 50px; */
 
 .name {
     margin-left: 50px;
@@ -18,6 +14,3 @@ body {
     ;
 }
 
-.nav-bar{
-    text-align: right;
-}
