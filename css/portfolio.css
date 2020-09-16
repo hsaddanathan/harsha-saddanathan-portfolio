@@ -1,0 +1,22 @@
+.portfolio {
+    padding: 10px;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    color: rgb(74,170,165);
+    font-weight: 600;
+    line-height: 2;
+  
+}
+.content {
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px; 
+    
+}
+
+.images {
+    width: 98%;
+    display: inline-block;
+    margin: 15px auto;
+    
+}
