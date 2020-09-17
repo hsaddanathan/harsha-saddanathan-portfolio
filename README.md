@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this assignment, we were tasked with building a 3 page site that matched an example shared with our class. Using our knowledge of HTML, CSS, and Bootstraps, we needed to create a `index.html`, `portfolio.html`, and `contact.html` files.
+In this assignment, we were tasked with building a 3 page site that matched an example shared with our class. Using our knowledge of HTML, CSS, and Bootstraps, we needed to create a `index.html`, `portfolio.html`, and `contact.html` files and personalize each page to ourselves. 
 
 ## Instruction
 
@@ -23,3 +23,18 @@ From there, right click and select "Open in Default Browser" to preview the page
 
 Alternatively, if you would like to only view the page please reference:
     https://hsaddanathan.github.io/student-portfolio/index.html
+
+## Deployed Site Images
+![About Page](media/about-page.png)
+![Portfolio Page Part 1](media/portfolio-page-1.png)
+![Portfolio Page Part 2](media/portfolio-page-2.png)
+![Contact Page](media/contact-page.png)
+
+## Links
+
+student-portfolio repository link:
+     https://github.com/hsaddanathan/student-portfolio.git
+
+Github Deployed Site URL:
+    https://hsaddanathan.github.io/student-portfolio/index.html
+
