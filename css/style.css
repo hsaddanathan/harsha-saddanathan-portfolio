@@ -44,7 +44,7 @@ body {
 .text-muted {
     color: #6c757d;
 }
-@media(max-width:1200px){
+@media(min-width:999px){
     .footer
     {position: fixed;
     }
