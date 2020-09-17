@@ -44,6 +44,12 @@ body {
 .text-muted {
     color: #6c757d;
 }
+@media(max-width:1200px){
+    .footer
+    {position: fixed;
+    }
+
+}
 
 /* About Page Specific CSS */
 
