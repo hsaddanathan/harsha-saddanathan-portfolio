@@ -44,6 +44,7 @@ body {
 .text-muted {
     color: #6c757d;
 }
+/* For Screens larger than normal window */
 @media(min-width:999px){
     .footer
     {position: fixed;
