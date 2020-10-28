@@ -1,21 +1,25 @@
 /* Applicable for All Pages */
+
+.navbar{
+  background-color: rgb(248,249,250);
+}
 /* Name on the Header */
 .name {
   margin-left: 50px;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 500;
-  background-color: rgb(74, 170, 165);
-  color: white;
+  background-color: rgb(0,195,99);
+  color: rgb(248,249,250);
   letter-spacing: 1px;
 }
 /* Background Image and fallback color */
 body {
-  background-image: url(../media/ignasi_pattern_s.png);
+  background-image: url(../media/wallpaperflare.com_wallpaper.jpg);
   background-color: rgb(235, 235, 235);
 }
 /* Section Tag Area */
 .content {
-  background-color: white;
+  background-color:rgb(248,249,250);
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 20px;
@@ -24,11 +28,16 @@ body {
 .content-header {
   padding: 10px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: rgb(74, 170, 165);
+  color: rgb(0,195,99);
   font-weight: 600;
   line-height: 2;
 }
 
+h4{
+  justify-content: center;
+  text-align: center;
+  color: rgb(0,195,99);
+}
 /* Footer */
 .footer {
     position: fixed;
@@ -39,7 +48,7 @@ body {
     background-color: black;
     text-align: center;
     opacity: 70%;
-    border-top: 10px rgb(74,170,165);
+    border-top: 10px rgb(0,195,99);
 }
 .text-muted {
     color: #6c757d;
@@ -65,6 +74,13 @@ body {
   margin: 20px;
 }
 
+.links{
+  color: rgb(0,195,99);
+}
+
+.links:hover{
+  color: rgb(0,131,65);
+}
 /* Portfolio Page Specific CSS */
 
 /* Image formatting */
@@ -72,7 +88,7 @@ body {
     width: 98%;
     display: inline-block;
     margin: 15px auto;
-    border: 1px solid rgb(74,170,165);
+    border: 1px solid rgb(0,195,99);
 }
 
 
@@ -88,7 +104,7 @@ body {
 }
 /* Submit Button and psuedo class */
 .submit-button {
-  background: rgb(74, 170, 165);
+  background: rgb(0,195,99);
 }
 
 .submit-button:hover {
