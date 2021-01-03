@@ -25,16 +25,15 @@ Alternatively, if you would like to only view the page please reference:
     https://hsaddanathan.github.io/student-portfolio/index.html
 
 ## Deployed Site Images
-![About Page](media/about-page.png)
-![Portfolio Page Part 1](media/portfolio-page-1.png)
-![Portfolio Page Part 2](media/portfolio-page-2.png)
-![Contact Page](media/contact-page.png)
+![About Page](media/index.png)
+![Portfolio Page Part 1](media/portfolio.png)
+![Contact Page](media/contact.png)
 
 ## Links
 
 student-portfolio repository link:
-     https://github.com/hsaddanathan/student-portfolio.git
+     https://github.com/hsaddanathan/harsha-saddanathan-portfolio
 
 Github Deployed Site URL:
-    https://hsaddanathan.github.io/student-portfolio/index.html
+    https://hsaddanathan.github.io/harsha-saddanathan-portfolio/
 
